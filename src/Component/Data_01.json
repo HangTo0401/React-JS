@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name":"Emily Paris",
+        "phone":"012345678",
+        "role":"1"
+    }, 
+    {
+        "id":2,
+        "name":"Iron man",
+        "phone":"7546456",
+        "role":"2"
+    },
+    {
+        "id":3,
+        "name":"Shein Prei",
+        "phone":"0123456",
+        "role":"1"
+    },
+    {
+        "id":4,
+        "name":"Paris Hilton",
+        "phone":"4564231",
+        "role":"3"
+    },
+    {
+        "id":5,
+        "name":"Khalid Due",
+        "phone":"52132321",
+        "role":"3"
+    }
+
+]
